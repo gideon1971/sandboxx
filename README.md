@@ -1,7 +1,18 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# AI Code Off
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Just a bit of fun to compare the big LLMs. 
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+We will set a task and ask each AI to generate the code.  some sort of metric will be needed to compare the results.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+The competitors
+the freebie version in each case.
+
+
+ChatGPT
+Claude
+Copilot
+Gemini
+MetaAi
+
+
+
