@@ -2,10 +2,11 @@
 
 Just a bit of fun to compare the big LLMs. 
 
-We will set a task and ask each AI to generate the code.  some sort of metric will be needed to compare the results.
+We will set a task and ask each AI to generate the code. Some sort of framework and metric will be needed to compare the results.
 
-The competitors
-the freebie version in each case.
+The prompt must be identical for each player.
+
+The league will consist of the freebie versions of the following.
 
 
 ChatGPT
