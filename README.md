@@ -1,3 +1,7 @@
+# Elipse internal light billiards
+
+WIP
+
 # AI Code Off
 
 Just a bit of fun to compare the big LLMs. 
